@@ -1,11 +1,25 @@
-<div align="center">
+# Muhammad Taqi - Industrial Automation Portfolio
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A premium, modern personal portfolio website built for a Senior Industrial Automation and DCS Expert.
 
-  <h1>Built with AI Studio</h2>
+## Features
+- **Modern Tech Stack**: React, Vite, Tailwind CSS, Framer Motion.
+- **Cyber Industrial Aesthetic**: Dark mode with neon blue and cyan accents.
+- **Interactive UI**: Typing effects, glassmorphism, scroll animations, and system initialization loaders.
+- **DCS Focused**: Themed around HollySys DCS, PLC, and SCADA engineering.
+- **Fully Responsive**: Optimized for all device sizes.
+- **Portfolio Showcases**: Case studies for sugar industry and process control automation.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Environment Variables
+- `GEMINI_API_KEY`: Required for any future AI features.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Setup
+1. `npm install`
+2. `npm run dev`
 
-</div>
+## Industrial Engineering Focus
+- HollySys DCS Expertise
+- PLC Programming
+- SCADA System Design
+- Instrumentation & E&I
+- Sugar Mill Process Optimization
